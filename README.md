@@ -1,3 +1,3 @@
 # curso-git
-Curso rápido git - Workshop
+Curso rápido git - Workshop teste
 no seii
